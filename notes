@@ -1,0 +1,1 @@
+dirb http://website.com - This is used to bruteforce a website using wordlist to find hidden back end webpages
