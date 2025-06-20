@@ -18,8 +18,8 @@ Welcome to your cybersecurity learning tracker. This GitHub repository helps you
 ## 📘 Learning Milestones
 
 ### ✅ Month 1–3: Blue Team Foundations
-- [x] TryHackMe Blue Team Labs
-- [x] Learn SOC workflows
+- [ ] TryHackMe Blue Team Labs
+- [ ] Learn SOC workflows
 - [ ] Document basic alerts & incident process
 
 ### 🔜 Month 4–6: Certification + Projects
